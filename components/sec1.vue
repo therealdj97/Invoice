@@ -3,12 +3,9 @@
         <div class="w-full bg-white">
             <section class="text-center bg-slate-400">
                 <div class="mx-5">
-                    <h1 class="max-w-screen-sm pb-3 text-2xl font-bold">VP Delivery Services PVT. LTD.</h1>
-                    <p>Unit no. E/128, 1st Floor, Wooden boxes Mfg Co-Op ind. Estate, Above Satara Bank
-                        Kailash ind. Complex, Park site
-                        Behind Godrej Colony
-                        VIkhroli (West) Mumbai, (Maharashtra-27) India-400079</p>
-                    <p>GSTIN 27AAHCV3427GIZ9</p>
+                    <h1 class="max-w-screen-sm pb-3 text-2xl font-bold">Nmae of Company</h1>
+                    <p>Company Address</p>
+                    <p>Business ID</p>
                 </div>
 
             </section>
